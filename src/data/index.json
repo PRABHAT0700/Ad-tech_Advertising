@@ -1,0 +1,48 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp",
+        "title": "6265856938, 9685909870",
+        "description": " adtechagency1111@gmail.com "
+      }
+    ],
+
+    "portfolio": [
+      {
+        "id": "1",
+        "src":"https://www.wordstream.com/wp-content/uploads/2022/08/what-does-seo-stand-for.png",
+        "title": "Search Engine Optimization",
+        "description": "SEO is the process used to optimize a website's technical configuration, content relevance and link popularity so its pages can become easily findable, more relevant and popular towards user search queries, and as a consequence, search engines rank them better.",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "https://www.popwebdesign.net/images/marketing/graphics/header-youtube.png",
+        "title": " Youtue sponsorship ",
+        "description": " We have a more then 500+ Creator's. We provide Dedicated YouTube sponsored videos are branded content that promotes a brand, product, or service by effortlessly incorporating it into a video (usually within the same niche). Youtube Short's sponsership, Live Streaming etc.. ",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "https://cdn-icons-png.flaticon.com/512/4573/4573133.png",
+        "title": "Display Ad. Campaigns",
+        "description": " Display Ads. A type of online advertisement that combines text, images, and a URL that links to a website where a customer can learn more about or buy products.  There are many ad formats. These ads can be static with an image or animated with multiple images, video. ",
+        "link": "View In Github"
+      }
+      
+    ],
+
+    "testimonial": [
+     
+      {
+        "id": "2",
+        "count": "5",
+        "src": "https://my-awesome-react-project.netlify.app/img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Kristin Watson",
+        "author_designation": "Louis Vuitton"
+      }
+     
+    ]
+  }
