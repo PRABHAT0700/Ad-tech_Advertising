@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ad-tech_advertising/static/css/main.1f8c337c.css",
-    "main.js": "/ad-tech_advertising/static/js/main.3fd6fde5.js",
-    "static/media/logoa.png": "/ad-tech_advertising/static/media/logoa.56eb95ec76c5e87a02c2.png",
-    "index.html": "/ad-tech_advertising/index.html",
-    "main.1f8c337c.css.map": "/ad-tech_advertising/static/css/main.1f8c337c.css.map",
-    "main.3fd6fde5.js.map": "/ad-tech_advertising/static/js/main.3fd6fde5.js.map"
+    "main.css": "/Ad-tech_Advertising/static/css/main.1f8c337c.css",
+    "main.js": "/Ad-tech_Advertising/static/js/main.2065b01f.js",
+    "static/media/logoa.png": "/Ad-tech_Advertising/static/media/logoa.56eb95ec76c5e87a02c2.png",
+    "index.html": "/Ad-tech_Advertising/index.html",
+    "main.1f8c337c.css.map": "/Ad-tech_Advertising/static/css/main.1f8c337c.css.map",
+    "main.2065b01f.js.map": "/Ad-tech_Advertising/static/js/main.2065b01f.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8c337c.css",
-    "static/js/main.3fd6fde5.js"
+    "static/js/main.2065b01f.js"
   ]
 }
