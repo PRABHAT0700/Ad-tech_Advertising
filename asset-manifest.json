@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ad-tech_advertising/static/css/main.1f8c337c.css",
+    "main.js": "/ad-tech_advertising/static/js/main.3fd6fde5.js",
+    "static/media/logoa.png": "/ad-tech_advertising/static/media/logoa.56eb95ec76c5e87a02c2.png",
+    "index.html": "/ad-tech_advertising/index.html",
+    "main.1f8c337c.css.map": "/ad-tech_advertising/static/css/main.1f8c337c.css.map",
+    "main.3fd6fde5.js.map": "/ad-tech_advertising/static/js/main.3fd6fde5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f8c337c.css",
+    "static/js/main.3fd6fde5.js"
+  ]
+}
